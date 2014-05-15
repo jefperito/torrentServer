@@ -1,7 +1,7 @@
 {
     "name": "torrentServer",
     "version": "0.0.1",
-    "description": "Torrent server the publishes torrent through RSS protocol",
+    "description": "Torrent server that publishes torrents through RSS protocol",
     "main": "index.js",
     "scripts": {
         "test": "mocha -u tdd ./test/"

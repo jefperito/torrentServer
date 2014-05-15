@@ -1,4 +1,4 @@
 torrentServer
 =============
 
-Torrent server the publishes torrent through RSS protocol
+Torrent server that publishes torrent through RSS protocol
