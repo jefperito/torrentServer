@@ -1,0 +1,26 @@
+{
+    "name": "torrentServer",
+    "version": "0.0.1",
+    "description": "Torrent server the publishes torrent through RSS protocol",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha -u tdd ./test/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jefperito/torrentServer.git"
+    },
+    "dependencies": {
+        "chokidar": "latest"
+    },
+    "keywords": [
+        "torrent",
+        "rss"
+    ],
+    "author": "Jeferson Viana Perito",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jefperito/torrentServer/issues"
+    },
+    "homepage": "https://github.com/jefperito/torrentServer"
+}
